@@ -1,5 +1,6 @@
 {
   "name": "Replace Like Icon",
-  "about_url": "https://github.com/SemperMMA/discourse-replace-likeIcon/blob/main/LICENSE"
+  "about_url": "https://github.com/SemperMMA/discourse-replace-likeIcon",
+  "license_url": "https://github.com/SemperMMA/discourse-replace-likeIcon/blob/main/LICENSE",
   "component": true
 }
